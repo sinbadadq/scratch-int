@@ -1,0 +1,39 @@
+# Cursor Rules — int_scratch
+
+## Context
+This repository is used for coding interview prep and live coding sessions
+covering Python, SQL, and data science topics.
+
+## Default Behavior
+- Be concise. Do not over-explain unless asked.
+- Write clean, correct, idiomatic code.
+- Do not volunteer complexity analysis, alternative approaches, or edge cases
+  unless explicitly requested.
+- Do not add inline comments narrating what the code does unless asked.
+
+## Python
+- Use type hints on all function signatures.
+- Prefer idiomatic Python (list comprehensions, generators, etc.) over verbose loops.
+- Use f-strings for string formatting.
+- Follow Ruff formatting rules (line length 120, double quotes, space indent).
+- Do not import libraries that are not in requirements.txt without flagging it.
+
+## SQL
+- Keywords in UPPER CASE (SELECT, FROM, WHERE, GROUP BY, etc.).
+- Identifiers in lower case.
+- Indent consistently with 4 spaces.
+- Follow ANSI SQL dialect unless a specific dialect is requested.
+
+## Data Science
+- Default to pandas/numpy/sklearn for implementation.
+- Do not volunteer statistical caveats, assumptions, or alternative methods
+  unless asked.
+- Keep EDA code concise — avoid redundant outputs.
+
+## On Request Only
+Only provide the following when explicitly asked:
+- Time and space complexity
+- Alternative approaches or implementations
+- Edge case analysis
+- Statistical assumptions or validity checks
+- Docstrings

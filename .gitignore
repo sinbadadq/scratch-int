@@ -34,11 +34,6 @@ venv/
 .AppleDouble
 .LSOverride
 
-# Cursor / VSCode
-.vscode/
-.cursor/
-*.code-workspace
-
 # Logs
 *.log
 logs/
