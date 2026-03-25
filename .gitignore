@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# DS/ML artifacts
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.parquet
+*.csv
+*.tsv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Cursor / VSCode
+.vscode/
+.cursor/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Misc
+*.tmp
+*.bak
+*.swp
